@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^13.13.4",
-    "@types/react": "^16.9.34"
+    "@types/react": "^16.9.34",
+    "hygen-next-tinacms-github": "https://github.com/dwalkr/hygen-next-tinacms-github"
   }
 }
